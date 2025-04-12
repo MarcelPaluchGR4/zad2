@@ -1,0 +1,14 @@
+/home/mp/python_projects/zad2/zad2/bin/Debug/net9.0/zad2
+/home/mp/python_projects/zad2/zad2/bin/Debug/net9.0/zad2.deps.json
+/home/mp/python_projects/zad2/zad2/bin/Debug/net9.0/zad2.runtimeconfig.json
+/home/mp/python_projects/zad2/zad2/bin/Debug/net9.0/zad2.dll
+/home/mp/python_projects/zad2/zad2/bin/Debug/net9.0/zad2.pdb
+/home/mp/python_projects/zad2/zad2/obj/Debug/net9.0/zad2.GeneratedMSBuildEditorConfig.editorconfig
+/home/mp/python_projects/zad2/zad2/obj/Debug/net9.0/zad2.AssemblyInfoInputs.cache
+/home/mp/python_projects/zad2/zad2/obj/Debug/net9.0/zad2.AssemblyInfo.cs
+/home/mp/python_projects/zad2/zad2/obj/Debug/net9.0/zad2.csproj.CoreCompileInputs.cache
+/home/mp/python_projects/zad2/zad2/obj/Debug/net9.0/zad2.dll
+/home/mp/python_projects/zad2/zad2/obj/Debug/net9.0/refint/zad2.dll
+/home/mp/python_projects/zad2/zad2/obj/Debug/net9.0/zad2.pdb
+/home/mp/python_projects/zad2/zad2/obj/Debug/net9.0/zad2.genruntimeconfig.cache
+/home/mp/python_projects/zad2/zad2/obj/Debug/net9.0/ref/zad2.dll
